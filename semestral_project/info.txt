@@ -1,4 +1,4 @@
-The aim of this project was the serial communication between a standard PC and a Nucleo STM32F446RE board and the calculation of Julia set on this given board.
+The aim of this project was the serial communication between a standard PC and a Nucleo STM32F446RE board and the calculation of Julia set on this given board. The "sem-main.c" file is the main file of this project.
 
 More information can be found here:
 https://cw.fel.cvut.cz/wiki/courses/b3b36prg/hw/hw10
